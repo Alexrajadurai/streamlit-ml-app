@@ -1,5 +1,5 @@
 absl-py
-altair=4.2.2
+altair==4.2.2
 astunparse
 attrs
 blinker
